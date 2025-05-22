@@ -189,3 +189,5 @@ nohup.out
 *.png
 
 scraper_cache/
+
+Scriptlink.xlsx
